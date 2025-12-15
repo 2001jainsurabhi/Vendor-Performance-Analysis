@@ -50,7 +50,7 @@ The goal is to identify **top-performing vendors**, **low-performing vendors/bra
 ---
 
 ##  How to Run
-```bash
+
 python Scripts/ingestion_db.py
 python Scripts/get_vendor_summary.py
 
