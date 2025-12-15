@@ -1,12 +1,12 @@
 # Vendor Performance Analysis & Dashboard
 
-## 📌 Overview
+##  Overview
 This project analyzes **vendor and brand performance** using sales, purchase, pricing, and inventory data.  
 The goal is to identify **top-performing vendors**, **low-performing vendors/brands**, and uncover **profitability and inventory insights** through an end-to-end data analytics workflow.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, SQLAlchemy)
 - SQL (CTEs, joins, aggregations)
 - SQLite / MySQL
@@ -15,7 +15,7 @@ The goal is to identify **top-performing vendors**, **low-performing vendors/bra
 
 ---
 
-## 🔄 Data Pipeline
+##  Data Pipeline
 - CSV files ingested into database using Pandas
 - Multiple tables merged using SQL
 - Data cleaned and enriched with business metrics:
@@ -27,7 +27,7 @@ The goal is to identify **top-performing vendors**, **low-performing vendors/bra
 
 ---
 
-## 📊 Dashboard Screenshot
+##  Dashboard Screenshot
 
 ![Vendor Performance Dashboard](Dashboard/vendor_performance.jpg)
 
@@ -39,7 +39,7 @@ The goal is to identify **top-performing vendors**, **low-performing vendors/bra
 
 ---
 
-## 📈 Metrics Analyzed
+##  Metrics Analyzed
 - Total Sales & Purchases
 - Gross Profit & Profit Margin
 - Unsold Capital
@@ -49,14 +49,15 @@ The goal is to identify **top-performing vendors**, **low-performing vendors/bra
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 python Scripts/ingestion_db.py
 python Scripts/get_vendor_summary.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Surbhi Jain**  
 Aspiring Data Analyst | SQL | Power BI | Python
+
