@@ -1,2 +1,6 @@
-# Vendor-Performance-Analysis
-A comprehensive Python and Power BI solution that analyzes vendor performance metrics, visualizes key trends, and delivers actionable insights for optimizing supply chain management and vendor relationships.
+## 📊 Dashboard Screenshot
+
+![Vendor Performance Dashboard](dashboard_screenshot.png)
+
+> **Note:** The screenshot above represents the interactive Power BI dashboard built for this project.  
+> It provides a consolidated view of sales, purchases, profitability, vendor contribution, and low-performing vendors and brands to support data-driven decision-making.
